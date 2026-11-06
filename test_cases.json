@@ -1,0 +1,4 @@
+{
+  "url": "http://app.cloudqa.io/home/AutomationPracticeForm",
+  "test_case": "Select India from the State dropdown and verify the selected value"
+}

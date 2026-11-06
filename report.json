@@ -1,0 +1,7 @@
+{
+    "test_case": "select india from the state dropdown and verify the selected value",
+    "url": "http://app.cloudqa.io/home/AutomationPracticeForm",
+    "status": "PASS",
+    "message": "India selected and verified in State dropdown",
+    "timestamp": "2026-11-06T16:17:19.345663"
+}
